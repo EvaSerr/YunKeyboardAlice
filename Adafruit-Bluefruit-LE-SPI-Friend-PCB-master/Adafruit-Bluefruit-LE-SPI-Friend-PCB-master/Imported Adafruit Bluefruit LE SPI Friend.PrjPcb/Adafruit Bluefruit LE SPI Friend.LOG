@@ -1,0 +1,30 @@
+Importer Log Report
+Project : Adafruit Bluefruit LE SPI Friend.PrjPcb
+
+Section : Analyze Document - C:\Users\Public\Documents\Altium\YunKeyboard\Adafruit-Bluefruit-LE-SPI-Friend-PCB-master\Adafruit-Bluefruit-LE-SPI-Friend-PCB-master\Adafruit Bluefruit LE SPI Friend.brd
+    Analyzing data of C:\Users\Public\Documents\Altium\YunKeyboard\Adafruit-Bluefruit-LE-SPI-Friend-PCB-master\Adafruit-Bluefruit-LE-SPI-Friend-PCB-master\Adafruit Bluefruit LE SPI Friend.brd
+    Load settings
+    Load layers 133
+    Load board
+    Load Library "microbuilder"
+    Load Packages 17
+    Load Library "adafruit"
+    Load Packages 1
+EndSection
+
+Section : Analyze Document - C:\Users\Public\Documents\Altium\YunKeyboard\Adafruit-Bluefruit-LE-SPI-Friend-PCB-master\Adafruit-Bluefruit-LE-SPI-Friend-PCB-master\Adafruit Bluefruit LE SPI Friend.sch
+    Analyzing data of C:\Users\Public\Documents\Altium\YunKeyboard\Adafruit-Bluefruit-LE-SPI-Friend-PCB-master\Adafruit-Bluefruit-LE-SPI-Friend-PCB-master\Adafruit Bluefruit LE SPI Friend.sch
+    Load settings
+    Load layers 133
+    Load schematic
+    Load Libraries 1
+    Load Library "microbuilder"
+    Load Packages 66
+    Load Symbols 17
+    Load DeviceSets 17
+    Load Attributes 1
+    Load Classes 1
+    Load Parts 47
+    Load Sheets 1
+    ERROR: Unhandled type <errors>
+EndSection
