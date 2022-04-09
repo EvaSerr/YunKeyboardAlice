@@ -1,0 +1,18 @@
+Added Component: Designator=J0(TYPE-C-31-M-12)
+Added Pin To Net: NetName=GND Pin=J0-0
+Added Pin To Net: NetName=VUSB Pin=J0-1
+Added Pin To Net: NetName=NetJ0_A5 Pin=J0-3
+Added Pin To Net: NetName=R_N Pin=J0-4
+Added Pin To Net: NetName=R_P Pin=J0-5
+Added Pin To Net: NetName=R_N Pin=J0-6
+Added Pin To Net: NetName=R_P Pin=J0-7
+Added Pin To Net: NetName=NetJ0_B5 Pin=J0-9
+Added Pin To Net: NetName=VUSB Pin=J0-10
+Added Pin To Net: NetName=GND Pin=J0-11
+Added Pin To Net: NetName=GND Pin=J0-12
+Added Pin To Net: NetName=GND Pin=J0-12
+Added Pin To Net: NetName=GND Pin=J0-12
+Added Pin To Net: NetName=GND Pin=J0-12
+Change Net Name : Old Net Name=NetJ0_A5 New Net Name=NetJ0_3
+Change Net Name : Old Net Name=NetJ0_B5 New Net Name=NetJ0_9
+Added Member To Class: ClassName=Processing_Rev3 Member=Component J0 USB-C Socket

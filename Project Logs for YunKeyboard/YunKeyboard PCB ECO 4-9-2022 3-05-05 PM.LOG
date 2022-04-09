@@ -1,0 +1,38 @@
+Added Component: Designator=U1(SSOP-28_ISI)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_Cory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "http://www.issi.com/WW/pdf/31FL3731.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IS31FL3731-SALS2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "ISSI_2020-02-04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "ISSI"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CA9 Pin=U1-1
+Added Pin To Net: NetName=NetC2_1 Pin=U1-2
+Added Pin To Net: NetName=NetR5_2 Pin=U1-3
+Added Pin To Net: NetName=INTB Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=NetR6_2 Pin=U1-6
+Added Pin To Net: NetName=CB1 Pin=U1-7
+Added Pin To Net: NetName=CB2 Pin=U1-8
+Added Pin To Net: NetName=CB3 Pin=U1-9
+Added Pin To Net: NetName=CB4 Pin=U1-10
+Added Pin To Net: NetName=CB5 Pin=U1-11
+Added Pin To Net: NetName=CB6 Pin=U1-12
+Added Pin To Net: NetName=CB7 Pin=U1-13
+Added Pin To Net: NetName=CB8 Pin=U1-14
+Added Pin To Net: NetName=CB9 Pin=U1-15
+Added Pin To Net: NetName=NetC5_1 Pin=U1-16
+Added Pin To Net: NetName=NetC4_1 Pin=U1-17
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=SDA1 Pin=U1-19
+Added Pin To Net: NetName=SCL1 Pin=U1-20
+Added Pin To Net: NetName=CA1 Pin=U1-21
+Added Pin To Net: NetName=CA2 Pin=U1-22
+Added Pin To Net: NetName=CA3 Pin=U1-23
+Added Pin To Net: NetName=CA4 Pin=U1-24
+Added Pin To Net: NetName=CA5 Pin=U1-25
+Added Pin To Net: NetName=CA6 Pin=U1-26
+Added Pin To Net: NetName=CA7 Pin=U1-27
+Added Pin To Net: NetName=CA8 Pin=U1-28
+Added Member To Class: ClassName=MCU_Interconnect_Rev1 Member=Component U1 IS31FL3731-SALS2

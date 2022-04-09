@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : XT9S20ANA16M.LibPkg
+
+Section : C:\Users\evan\Downloads\XT9S20ANA16M\XT9S20ANA16M.lia
+    Section : PCB Library - XT9S20ANA16M.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token XT9S20ANA16M On Line 114
+            Warning - 1 : Skipping Token attachedSymbol On Line 168
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - XT9S20ANA16M.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 104
+            Warning - 1 : Skipping Token layerContents On Line 108
+            Warning - 1 : Skipping Token isVisible On Line 144
+            Warning - 1 : Skipping Token isVisible On Line 145
+        EndSection
+
+        Section : Generating SCH Library - XT9S20ANA16M.SchLib
+        EndSection
+    EndSection
+EndSection

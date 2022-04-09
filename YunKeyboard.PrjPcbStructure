@@ -1,7 +1,2 @@
-Record=TopLevelDocument|FileName=BatUSBSwitchRev3.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=BatUSBSwitchRev3.SchDoc|FileName=BLE.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=BatUSBSwitchRev3.SchDoc|FileName=BoosterPower.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=BatUSBSwitchRev3.SchDoc|FileName=KeyMatrixRev2.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=BatUSBSwitchRev3.SchDoc|FileName=Processing_Rev3.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=BatUSBSwitchRev3.SchDoc|FileName=RegulatorPower.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=BatUSBSwitchRev3.SchDoc|FileName=RGB_Matrix_Rev2.SchDoc|SheetNumber= 
+Record=TopLevelDocument|FileName=KeyMatrixRev2.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=KeyMatrixRev2.SchDoc|FileName=MCU_Interconnect_Rev1.SchDoc|SheetNumber= 
